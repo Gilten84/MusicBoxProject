@@ -158,7 +158,7 @@ public class BeatBox
 			mainPanel.add(c);
 		}
 		
-		theFrame.setBounds(50,50,300,300); //set bounds of the frame
+		theFrame.setBounds(50,50,400,400); //set bounds of the frame
 		theFrame.pack(); //method pack to guarantee that all components will be visible
 		theFrame.setVisible(true); // shows the frame
 				
